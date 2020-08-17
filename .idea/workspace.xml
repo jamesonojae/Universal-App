@@ -2,37 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13c3235d-97d9-4e61-ba16-aafb67090728" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/elements/placeholder/placeholder.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/elements/placeholder/placeholder.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/elements/placeholder/placeholder.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/elements/placeholder/placeholder.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/elements/segment/segment.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/elements/segment/segment.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/elements/segment/segment.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/elements/segment/segment.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/elements/times.directive.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/elements/times.directive.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/home/home.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/home/home.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/home/home.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/home/home.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/not-found/not-found.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/not-found/not-found.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/not-found/not-found.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/not-found/not-found.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/shared/divider/divider.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/shared/divider/divider.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/shared/divider/divider.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/shared/divider/divider.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/shared/shared.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/collections/table/table.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/collections/table/table.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/collections/table/table.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/collections/table/table.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app-routing.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/collections/collections-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/collections/collections-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/elements/elements-home/elements-home.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/elements/elements-home/elements-home.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/elements/elements-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/elements/elements-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/elements/elements.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/elements/elements.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/collections/collections-home/collections-home.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/collections/collections-home/collections-home.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/collections/collections-home/collections-home.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/collections/collections-home/collections-home.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/collections/collections.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/collections/collections.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/elements/segment/segment.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/elements/segment/segment.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/elements/segment/segment.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/elements/segment/segment.component.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,8 +99,17 @@
       <updated>1596752800327</updated>
       <workItem from="1596752807359" duration="4403000" />
       <workItem from="1596916759624" duration="180000" />
-      <workItem from="1597264565510" duration="8480000" />
+      <workItem from="1597264565510" duration="9296000" />
+      <workItem from="1597423846618" duration="8576000" />
     </task>
+    <task id="LOCAL-00001" summary="worked on lazy loading">
+      <created>1597398497487</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597398497487</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,8 +117,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="worked on lazy loading" />
+    <option name="LAST_COMMIT_MESSAGE" value="worked on lazy loading" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1597398457975">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1597398457975" />
     <state width="1350" height="197" key="GridCell.Tab.0.bottom" timestamp="1597097822092">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -146,6 +141,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1350" height="197" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1597097822092" />
+    <state x="275" y="118" key="Vcs.Push.Dialog.v2" timestamp="1597398590709">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="118" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1597398590709" />
     <state x="100" y="100" width="1166" height="568" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1597078956782">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
