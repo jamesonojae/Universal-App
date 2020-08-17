@@ -2,17 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13c3235d-97d9-4e61-ba16-aafb67090728" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/collections/table/table.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/collections/table/table.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/collections/table/table.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/collections/table/table.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/collections/biography/biography.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/collections/biography/biography.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/collections/biography/biography.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/collections/biography/biography.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/collections/companies/companies.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/collections/companies/companies.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/collections/companies/companies.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/collections/companies/companies.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/collections/partners/partners.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/collections/partners/partners.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/collections/partners/partners.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/collections/partners/partners.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/views/statistics/statistics.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/views/statistics/statistics.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/views/statistics/statistics.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/views/statistics/statistics.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/views/views-home/views-home.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/views/views-home/views-home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/views/views-home/views-home.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/views/views-home/views-home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/couch.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/dresser.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app-routing.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/collections/collections-home/collections-home.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/collections/collections-home/collections-home.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/collections/collections-home/collections-home.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/collections/collections-home/collections-home.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/collections/collections-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/collections/collections-routing.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/collections/collections.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/collections/collections.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/elements/segment/segment.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/elements/segment/segment.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/elements/segment/segment.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/elements/segment/segment.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shared/divider/divider.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/shared/divider/divider.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/views/views-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/views/views-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/views/views.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/views/views.module.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,12 +56,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs.protractor.protractor_package" value="$PROJECT_DIR$/node_modules/protractor" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="ts.external.directory.path" value="C:\Users\ONOJA\WebstormProjects\Universal-App\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\Users\COBWEB_LAB\WebstormProjects\Universal-App\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\COBWEB_LAB\WebstormProjects\Universal-App\src\assets\images" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.Angular CLI Server">
     <configuration name="Tests (Universal-App)" type="JavaScriptTestRunnerKarma">
